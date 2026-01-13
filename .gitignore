@@ -6,3 +6,4 @@ local-db/
 dump-file.edn
 .lein-repl-history
 .DS_Store
+label.html
