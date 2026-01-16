@@ -1,6 +1,11 @@
 [{:title "label 1"
-  :body "foo"}
- "label 2"
- "label 3"
- "label 4"
- "label 5"]
+  :body "foo"
+  :class "purple"}
+ {:title "label 2"
+  :class "blue"}
+ {:title "label 3"
+  :class "red"}
+ {:title "label 4"
+  :class "green"}
+ {:title "label 5"
+  :class "yellow"}]
