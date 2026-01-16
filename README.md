@@ -1,36 +1,15 @@
 # labelmaker
 
-FIXME: description
+A simple Clojure tool for generating Avery 5126 Labels.
 
 ## Installation
 
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar labelmaker-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+* Edit `labels.edn` with the contents of the desired albels.
+* Invoke `make run`.
 
 ## License
 
-Copyright © 2026 FIXME
+Copyright © 2026 Mike Schaeffer
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
