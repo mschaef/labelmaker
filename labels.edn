@@ -16,4 +16,92 @@
 
  {:title "Animatronics"
   :class "green"
-  :body "Any Year"}]
+  :body "Any Year"}
+
+ {:title "Christmas"
+  :class "green"
+  :body ["Target Trees"
+         "Blankets"
+         "Family Room"]}
+
+ {:title "Christmas - Outside"
+  :class "green"
+  :body "Any Year"}
+
+ {:title "Christmas - Kids"
+  :class "green"
+  :body "Any Year"}
+
+ {:title "Christmas - Kids"
+  :class "green"
+  :body "Any Year"}
+
+ {:title "Christmas - Office Tree"
+  :class "blue"
+  :body "Any Year"}
+
+ {:title "Christmas - Grandmama's Ornaments"
+  :class "red"
+  :body "Year 1"}
+
+ {:title "Christmas 2026 - Live Tree"
+  :class "green"}
+
+ {:title "Christmas 2026"
+  :class "green"}
+
+ {:title "Christmas Tree"
+  :class "red"
+  :body "Year 1"}
+
+ {:title "Christmas - Living Room"
+  :class "blue"
+  :body "Year 2"}
+
+ {:title "Christmas - Tree"
+  :class "blue"
+  :body "Year 2"}
+
+ {:title "Christmas - Family Room"
+  :class "red"
+  :body "Year 1"}
+
+ {:title "Winter"
+  :class "green"
+  :body "Any Year"}
+
+ {:title "Winter"
+  :class "green"
+  :body "Any Year"}
+
+ {:title "Winter"
+  :class "green"
+  :body "Any Year"}
+
+ {:title "Christmas - Family Room"
+  :class "blue"
+  :body "Year 2"}
+
+ {:title "Christmas - Hallway"
+  :class "green"
+  :body "Any Year"}
+
+ {:title "Christmas - Animatronics"
+  :class "green"
+  :body "Any Year"}
+
+ {:title "Christmas - Lights"
+  :class "green"
+  :body "Any Year"}
+
+ {:title "Halloween"
+  :class "orange"}
+
+ {:title "Halloween"
+  :class "orange"}
+
+ {:title "Ofrenda Pictures"
+  :class "orange"}
+
+ {:title "Easter"
+  :class "pink"}]

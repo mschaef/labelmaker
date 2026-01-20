@@ -59,6 +59,14 @@ body {
     border-color: yellow;
 }
 
+.label .body.orange {
+    border-color: orange;
+}
+
+.label .body.pink {
+    border-color: pink;
+}
+
 .label h1 {
     font-size: 48pt;
     margin-top: 0pt;
