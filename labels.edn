@@ -1,11 +1,17 @@
-[{:title "label 1"
-  :body "foo"
-  :class "purple"}
- {:title "label 2"
-  :class "blue"}
- {:title "label 3"
+[{:title "Year 1 - Living Room"
   :class "red"}
- {:title "label 4"
+
+ {:title "Year 1 - Family Room"
+  :class "red"}
+
+ {:title "Christmas 2026"
   :class "green"}
- {:title "label 5"
-  :class "yellow"}]
+
+ {:title "Christmas 2026"
+  :class "green"}
+
+ {:title "Christmas Tree - Any Year"
+  :class "green"}
+
+ {:title "Animatronics - Any Year"
+  :class "green"}]

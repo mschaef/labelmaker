@@ -4,13 +4,19 @@
             [clojure.edn :as edn]
             [hiccup.page :as hiccup-page]))
 
-(defn normalize-label-definition [ definition ]
+(defn- normalize-label-definition [ definition ]
   (if (string? definition)
     {:title definition}
     definition))
 
 (defn render-page [ & contents ]
   [:div.page contents])
+
+(defn- label-body-lines [ body ]
+  (cond
+    (string? body) [ body ]
+    (vector? body) body
+    :else []))
 
 (defn render-label [ contents ]
   (let [{title :title
@@ -19,8 +25,9 @@
     [:div.label
      [:div.body (when class {:class class})
       [:h1 title]
-      (when body
-        [:p body])]]))
+      (map (fn [ body-line ]
+             [:p body-line])
+           (label-body-lines body))]]))
 
 (defn render-labels [ labels ]
   (map render-page
@@ -32,7 +39,7 @@
    [:head
     [:style (slurp (io/resource "labelmaker.css"))]]
    [:body
-    page-contents])  )
+    page-contents]))
 
 (defn -main
   "I don't do a whole lot ... yet."

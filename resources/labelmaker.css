@@ -28,13 +28,15 @@ body {
 }
 
 .label .body {
-    border: 0.25in solid black;
+    border: 24pt solid black;
     margin: 0.5in;
     flex: 1;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
+    font-family: Roboto, Helvetica, sans-serif;
 }
 
 .label .body.purple {
@@ -56,3 +58,15 @@ body {
 .label .body.yellow {
     border-color: yellow;
 }
+
+.label h1 {
+    font-size: 48pt;
+    margin-top: 0pt;
+    margin-bottom: 12pt;
+}
+
+.label p {
+    margin: 4pt;
+    font-size: 36pt;
+}
+
