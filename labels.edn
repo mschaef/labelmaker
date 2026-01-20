@@ -10,8 +10,10 @@
  {:title "Christmas 2026"
   :class "green"}
 
- {:title "Christmas Tree - Any Year"
-  :class "green"}
+ {:title "Christmas Tree"
+  :class "green"
+  :body "Any Year"}
 
- {:title "Animatronics - Any Year"
-  :class "green"}]
+ {:title "Animatronics"
+  :class "green"
+  :body "Any Year"}]
