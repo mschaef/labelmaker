@@ -1,20 +1,28 @@
-[{:title "Year 1 - Living Room"
-  :class "red"}
-
- {:title "Year 1 - Family Room"
-  :class "red"}
-
- {:title "Christmas 2026"
-  :class "green"}
-
- {:title "Christmas 2026"
-  :class "green"}
-
- {:title "Christmas Tree"
+[ {:title "Winter"
   :class "green"
   :body "Any Year"}
 
- {:title "Animatronics"
+ {:title "Winter"
+  :class "green"
+  :body "Any Year"}
+
+ {:title "Winter"
+  :class "green"
+  :body "Any Year"}
+
+ {:title "Christmas 2026"
+  :class "green"}
+
+ {:title "Christmas 2026"
+  :class "green"}
+
+ {:title "Christmas 2026"
+  :class "green"}
+
+ {:title "Christmas 2026 - Live Tree"
+  :class "green"}
+
+ {:title "Christmas Tree"
   :class "green"
   :body "Any Year"}
 
@@ -23,6 +31,14 @@
   :body ["Target Trees"
          "Blankets"
          "Family Room"]}
+
+ {:title "Christmas - Animatronics"
+  :class "green"
+  :body "Any Year"}
+
+ {:title "Christmas - Animatronics"
+  :class "green"
+  :body "Any Year"}
 
  {:title "Christmas - Outside"
   :class "green"
@@ -36,23 +52,37 @@
   :class "green"
   :body "Any Year"}
 
- {:title "Christmas - Office Tree"
-  :class "blue"
+ {:title "Christmas - Hallway"
+  :class "green"
   :body "Any Year"}
+
+ {:title "Christmas - Lights"
+  :class "green"
+  :body "Any Year"}
+
+ {:title "Christmas - Living Room"
+  :class "red"
+  :body "Year 1"}
+
+ {:title "Christmas - Family Room"
+  :class "red"
+  :body "Year 1"}
 
  {:title "Christmas - Grandmama's Ornaments"
   :class "red"
   :body "Year 1"}
 
- {:title "Christmas 2026 - Live Tree"
-  :class "green"}
-
- {:title "Christmas 2026"
-  :class "green"}
-
  {:title "Christmas Tree"
   :class "red"
   :body "Year 1"}
+
+ {:title "Christmas - Family Room"
+  :class "red"
+  :body "Year 1"}
+
+ {:title "Christmas - Office Tree"
+  :class "blue"
+  :body "Any Year"}
 
  {:title "Christmas - Living Room"
   :class "blue"
@@ -63,36 +93,8 @@
   :body "Year 2"}
 
  {:title "Christmas - Family Room"
-  :class "red"
-  :body "Year 1"}
-
- {:title "Winter"
-  :class "green"
-  :body "Any Year"}
-
- {:title "Winter"
-  :class "green"
-  :body "Any Year"}
-
- {:title "Winter"
-  :class "green"
-  :body "Any Year"}
-
- {:title "Christmas - Family Room"
   :class "blue"
   :body "Year 2"}
-
- {:title "Christmas - Hallway"
-  :class "green"
-  :body "Any Year"}
-
- {:title "Christmas - Animatronics"
-  :class "green"
-  :body "Any Year"}
-
- {:title "Christmas - Lights"
-  :class "green"
-  :body "Any Year"}
 
  {:title "Halloween"
   :class "orange"}
