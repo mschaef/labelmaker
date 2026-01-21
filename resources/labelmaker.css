@@ -16,14 +16,17 @@ body {
 
 .page {
   break-after: page;
-  width: 8.5in;
-  height: 11in;
+  width: 11in;
+  height: 8.5in;
   margin: 0in;
   padding: 0in;
+
+  display: flex;
+  flex-direction: row;
 }
 
 .label {
-    height: 5.5in;
+    width: 5.5in;
     display: flex;
 }
 
@@ -68,7 +71,7 @@ body {
 }
 
 .label h1 {
-    font-size: 48pt;
+    font-size: 36pt;
     margin-top: 0pt;
     margin-bottom: 12pt;
     text-align: center;
