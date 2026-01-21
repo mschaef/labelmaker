@@ -1,4 +1,20 @@
-[ {:title "Winter"
+[{:title "Christmas - Kids"
+  :class "green"
+  :body "Any Year"}
+
+ {:title "Christmas - Kids"
+  :class "green"
+  :body "Any Year"}
+
+ {:title "Christmas - Kids"
+  :class "green"
+  :body "Any Year"}
+
+ {:title "Christmas - Family Room"
+  :class "blue"
+  :body "Year 2"}
+
+ {:title "Winter"
   :class "green"
   :body "Any Year"}
 
@@ -107,3 +123,5 @@
 
  {:title "Easter"
   :class "pink"}]
+
+
